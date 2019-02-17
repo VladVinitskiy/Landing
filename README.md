@@ -4,6 +4,4 @@ In the project directory you can see the landing of some fictitious companies, w
 
 ## Deployment
 
-This project has moved here: https://t0-do-list.herokuapp.com/
-
-ool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This landing has moved here: https://tanatosstudio-2422b.firebaseapp.com/
